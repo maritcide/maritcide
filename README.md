@@ -1,6 +1,6 @@
 
  
-![](https://komarev.com/ghpvc/?username=maritcide&color=cf0000)
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=maritcide&color=cf0000"/> </p>
 
 <p align="center">
 i eat little baby ice cream.
